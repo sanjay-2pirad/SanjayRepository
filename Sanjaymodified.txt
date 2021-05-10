@@ -1,0 +1,1 @@
+Manually added a file in master in remote server.
